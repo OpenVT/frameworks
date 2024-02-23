@@ -1,15 +1,18 @@
 # frameworks
 
 This repository will be used to maintain a living spreadsheet that compares existing 
-frameworks (simulation software packages) for Open Virtual Tissues.
+frameworks (simulation software packages) for Open Virtual Tissues. We welcome input and feedback from the community  via Issues, Pull requests, or email.
 
-Some relevant publications (but possibly not up to date) include: 
+Some relevant publications that have compared frameworks include: 
 
-* A Review of Cell-Based Computational Modeling in Cancer Biology (2019)
-    John Metzcar, Yafei Wang, Randy Heiland, Paul Macklin https://doi.org/10.1200/CCI.18.00069
+* Hybrid Automata Library: A flexible platform for hybrid modeling with real-time visualization (2020).
+Rafael R. Bravo, Etienne Baratchart, Jeffrey West, Ryan O. Schenck, Anna K. Miller, Jill Gallaher, Chandler D. Gatenbee, David Basanta, Mark Robertson-Tessi, Alexander R. A. Anderson. https://doi.org/10.1371/journal.pcbi.1007635
+
+* A Review of Cell-Based Computational Modeling in Cancer Biology (2019).
+    John Metzcar, Yafei Wang, Randy Heiland, Paul Macklin. https://doi.org/10.1200/CCI.18.00069
     
-* Comparing individual-based approaches to modelling the self-organization of multicellular tissues. (2017)
-    James M. Osborne, Alexander G. Fletcher, Joe M. Pitt-Francis, Philip K. Maini, David J. Gavaghan https://doi.org/10.1371/journal.pcbi.1005387
+* Comparing individual-based approaches to modelling the self-organization of multicellular tissues (2017).
+    James M. Osborne, Alexander G. Fletcher, Joe M. Pitt-Francis, Philip K. Maini, David J. Gavaghan. https://doi.org/10.1371/journal.pcbi.1005387
 
 
 Abbreviations:<br>
