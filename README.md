@@ -53,9 +53,31 @@ Abbreviations:<br>
   </tr>
   <tr>
     <td>CompuCell3D</td>
+    <td></td>
+    <td>&check;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&check;</td>
+    <td></td>
+    <td></td>
+    <td>C++,Python</td>
+    <td>&check;</td>
+    <td>*1</td>
   </tr>
     <tr>
     <td>PhysiCell</td>
+    <td></td>
+    <td></td>
+    <td>&check;</td>
+    <td></td>
+    <td></td>
+    <td>&check;</td>
+    <td></td>
+    <td></td>
+    <td>C++</td>
+    <td>&check;</td>
+    <td>*2</td>
   </tr>
   <tr>
     <td>Chaste</td>
@@ -69,3 +91,10 @@ Abbreviations:<br>
     <td>Tissue Forge</td>
   </tr>
 </table>
+
+<br>
+<ul>
+<li> *1 - various models are available on https://nanohub.org </li>
+<li> *2 - various models are available on https://nanohub.org </li>
+</ul>
+
