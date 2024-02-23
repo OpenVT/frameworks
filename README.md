@@ -21,6 +21,9 @@ Abbreviations:<br>
 * CB - Center Based
 * VT - Voronoi Tessellation
 * VM - Vertex Model
+
+Note: we avoid the category of "extensible" until/unless we have an agreed upon definition. Obviously, any framework can be said to be extensible if a person is willing to write and integrate the necessary code.
+
 <br>
 <table>
   <tr>
@@ -30,6 +33,8 @@ Abbreviations:<br>
     <td>Lng(s)</td>
     <td>GUI</td>
     <td>Web</td>
+    <td colspan="3">Operating system</td>
+    <td colspan="2">Parallelism</td>
   </tr>
   <tr>
     <td></td>
@@ -40,6 +45,14 @@ Abbreviations:<br>
     <td>VM</td>
     <td colspan="2">Diffusion</td>
     <td>Advection</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Win</td>
+    <td>Mac</td>
+    <td>Linux</td>
+    <td>OpenMP</td>
+    <td>MPI</td>
   </tr>
   <tr>
     <td></td>
@@ -64,6 +77,11 @@ Abbreviations:<br>
     <td>C++,Python</td>
     <td>&check;</td>
     <td>*1</td>
+    <td>&check;</td>
+    <td>&check;</td>
+    <td>&check;</td>
+    <td>&check;</td>
+    <td></td>
   </tr>
     <tr>
     <td>PhysiCell</td>
@@ -78,6 +96,11 @@ Abbreviations:<br>
     <td>C++</td>
     <td>&check;</td>
     <td>*2</td>
+    <td>&check;</td>
+    <td>&check;</td>
+    <td>&check;</td>
+    <td>&check;</td>
+    <td></td>
   </tr>
   <tr>
     <td>Chaste</td>
