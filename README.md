@@ -15,12 +15,13 @@ Rafael R. Bravo, Etienne Baratchart, Jeffrey West, Ryan O. Schenck, Anna K. Mill
     James M. Osborne, Alexander G. Fletcher, Joe M. Pitt-Francis, Philip K. Maini, David J. Gavaghan. https://doi.org/10.1371/journal.pcbi.1005387
 
 
-Abbreviations:<br>
+Abbreviations/definitions:<br>
 * CA - Cellular Automata
 * CP - Cellular Potts
 * CB - Center Based
 * VT - Voronoi Tessellation
 * VM - Vertex Model
+* Checkpointing - ability to save/reload state if a restart/continuation is needed
 
 Note: we avoid the category of "extensible" until/unless we have an agreed upon definition. Obviously, any framework can be said to be extensible if a person is willing to write and integrate the necessary code.
 
@@ -30,9 +31,11 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td></td>
     <td colspan="5">Class</td>
     <td colspan="3">PDE</td>
-    <td>Lng(s)</td>
+    <td>Lng/APIs</td>
     <td>GUI</td>
     <td>Web</td>
+    <td colspan="2">Intracellular</td>
+    <td>Checkpointing</td>
     <td colspan="3">Operating system</td>
     <td colspan="2">Parallelism</td>
   </tr>
@@ -47,6 +50,9 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td>Advection</td>
     <td></td>
     <td></td>
+    <td></td>
+    <td>Boolean</td>
+    <td>ODEs</td>
     <td></td>
     <td>Win</td>
     <td>Mac</td>
@@ -77,6 +83,9 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td>C++,Python</td>
     <td>&check;</td>
     <td>*1</td>
+    <td></td>
+    <td>&check;</td>
+    <td></td>
     <td>&check;</td>
     <td>&check;</td>
     <td>&check;</td>
@@ -96,6 +105,9 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td>C++</td>
     <td>&check;</td>
     <td>*2</td>
+    <td>&check;</td>
+    <td>&check;</td>
+    <td></td>
     <td>&check;</td>
     <td>&check;</td>
     <td>&check;</td>
