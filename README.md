@@ -52,6 +52,7 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Boolean</td>
     <td>ODEs</td>
     <td></td>
@@ -85,7 +86,7 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td>Python</td>
     <td>&check;</td>
     <td>*1</td>
-    <td></td>
+    <td>&check;</td>
     <td>&check;</td>
     <td></td>
     <td>&check;</td>
