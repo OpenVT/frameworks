@@ -31,7 +31,8 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td></td>
     <td colspan="5">Class</td>
     <td colspan="3">PDE</td>
-    <td>Lng/APIs</td>
+    <td>Lng</td>
+    <td>APIs</td>
     <td>GUI</td>
     <td>Web</td>
     <td colspan="2">Intracellular</td>
@@ -80,7 +81,8 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td>&check;</td>
     <td></td>
     <td></td>
-    <td>C++,Python</td>
+    <td>C++</td>
+    <td>Python</td>
     <td>&check;</td>
     <td>*1</td>
     <td></td>
@@ -102,6 +104,7 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td>&check;</td>
     <td></td>
     <td></td>
+    <td>C++</td>
     <td>C++</td>
     <td>&check;</td>
     <td>*2</td>
