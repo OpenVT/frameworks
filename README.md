@@ -118,16 +118,16 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td>&check;</td>
     <td></td>
   </tr>
-  <tr>
-    <td>Chaste</td>
-        <tr>
+    <tr>
     <td>Morpheus</td>
-              <tr>
-    <td>HAL</td>
-                    <tr>
-    <td>Artistoo</td>
-                          <tr>
+    <tr>
+    <td>Chaste</td>
+    <tr>
     <td>Tissue Forge</td>
+    <tr>
+    <td>Artistoo</td>
+    <tr>
+    <td>HAL</td>
   </tr>
 </table>
 
