@@ -128,6 +128,8 @@ Note: we avoid the category of "extensible" until/unless we have an agreed upon 
     <td>Artistoo</td>
     <tr>
     <td>HAL</td>
+    <tr>
+    <td>Biocellion</td>
   </tr>
 </table>
 
