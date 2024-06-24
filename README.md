@@ -1,5 +1,7 @@
 # frameworks
 
+WARNING: mostly deprecated. Rf. the [OpenVTschema repo](https://github.com/OpenVT/OpenVTschema) and https://openvt.github.io.
+
 This repository will be used to maintain a living spreadsheet that compares existing 
 frameworks (simulation software packages) for Open Virtual Tissues. We welcome input and feedback from the community  via Issues, Pull requests, or email.
 
